@@ -79,7 +79,7 @@ If you use the HAN dataset in your research, please cite our paper (details will
   % pages     = {XX--XX},
   numpages  = {8},
   doi       = {10.1145/3746027.3758229},
-  % isbn      = {XXXX-XXXX-XXXX-XXXX},
+  isbn      = {979-8-4007-2035-2/2025/10},
   url       = {https://doi.org/10.1145/3746027.3758229},
   series    = {MM '25}
 }
