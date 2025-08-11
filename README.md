@@ -76,10 +76,10 @@ If you use the HAN dataset in your research, please cite our paper (details will
   location  = {Dublin, Ireland},
   publisher = {Association for Computing Machinery},
   address   = {New York, NY, USA},
-  pages     = {XX--XX},
+  % pages     = {XX--XX},
   numpages  = {8},
   doi       = {10.1145/3746027.3758229},
-  isbn      = {XXXX-XXXX-XXXX-XXXX},
+  % isbn      = {XXXX-XXXX-XXXX-XXXX},
   url       = {https://doi.org/10.1145/3746027.3758229},
   series    = {MM '25}
 }
